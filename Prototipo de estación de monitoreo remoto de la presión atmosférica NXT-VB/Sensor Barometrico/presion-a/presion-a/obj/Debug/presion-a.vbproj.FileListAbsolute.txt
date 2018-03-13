@@ -1,0 +1,56 @@
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.exe
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.pdb
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.xml
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Form1.resources
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Resources.resources
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+K:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.exe
+K:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.pdb
+K:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.xml
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\ResolveAssemblyReference.cache
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Form1.resources
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Resources.resources
+K:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.vbproj.GenerateResource.Cache
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+H:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.exe
+H:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.pdb
+H:\Sensor_Barometrico\presion-a\presion-a\bin\Debug\presion-a.xml
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\ResolveAssemblyReference.cache
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Form1.resources
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Resources.resources
+H:\Sensor_Barometrico\presion-a\presion-a\obj\Debug\presion-a.vbproj.GenerateResource.Cache
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+E:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+E:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+E:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+H:\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.exe
+H:\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.pdb
+H:\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.xml
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\ResolveAssemblyReference.cache
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Form1.resources
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Resources.resources
+H:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.vbproj.GenerateResource.Cache
+F:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+F:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+F:\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.exe
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.xml
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.pdb
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.exe
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.pdb
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\bin\Debug\presion-a.xml
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\ResolveAssemblyReference.cache
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Form1.resources
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\WindowsApplication1.Resources.resources
+H:\MEMORIA\Sensor Barometrico\presion-a\presion-a\obj\Debug\presion-a.vbproj.GenerateResource.Cache

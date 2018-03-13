@@ -1,0 +1,10 @@
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Release\presion-a.exe
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Release\presion-a.pdb
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\bin\Release\presion-a.xml
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\WindowsApplication1.Form1.resources
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\WindowsApplication1.Resources.resources
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\presion-a.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\presion-a.exe
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\presion-a.xml
+C:\xampp\htdocs\Sensor_Barometrico\presion-a\presion-a\obj\Release\presion-a.pdb
